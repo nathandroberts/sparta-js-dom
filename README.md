@@ -1,5 +1,5 @@
 # sparta-js-dom
-
+Practice for using js DOM
 ### Brief
 
 * Write some code in the addListItem function that creates an element and appends it to the list.
